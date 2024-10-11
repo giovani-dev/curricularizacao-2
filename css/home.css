@@ -1,0 +1,36 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background-image: url("./../img/background_home.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.instituicao {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-weight: 800;
+    font-style: italic;
+    margin-right: 4.89%;
+}
+
+#nome-abreviacao {
+    color: #FF003D;
+    font-size: 270px;
+    margin-right: 34px;
+
+}
+
+#nome-completo {
+    font-size: 36px;
+
+}
