@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+}
+
+.aa img {
+    max-width:200px;
+    max-height:150px;
+
+}
+
+nav {
+
+    display: inline;
+    margin: auto;
+
+}
+
+div {
+    display: inline;
+    margin: 3%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.aa {
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+}
