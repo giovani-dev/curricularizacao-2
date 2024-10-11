@@ -1,0 +1,13 @@
+h1 {
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 60px;
+    font-size: 80px;
+}
+.texto1 {
+    text-indent: 50px;
+    font-size: 40px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: justify;
+}
