@@ -1,41 +1,13 @@
-
-.titulo{
-        float: left ;
-        color: red;
-}
-
-.box{
-    width: 1300px;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    padding: 100px 100px;
-    margin-top: 150px;
- 
-     
-}
-p{
-    text-align: justify;
-    text-indent: 50px;
-}
-
-h1{
+h1 {
     text-align: left;
     margin-top: 100px;
     margin-left: 60px;
     font-size: 80px;
 }
-.texto2{
+.texto1 {
+    text-indent: 50px;
     font-size: 40px;
     margin-right: 50px;
     margin-left: 50px;
-   
-    
+    text-align: justify;
 }
-.texto1{
-    font-size: 40px;
-    margin-right: 50px;
-    margin-left: 50px;
-    
-    }
