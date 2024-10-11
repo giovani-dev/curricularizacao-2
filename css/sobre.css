@@ -1,0 +1,28 @@
+h1 {
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 60px;
+    font-size: 80px;
+}
+
+.texto1 {
+    font-size: 40px;
+    margin-right: 30px;
+    margin-left: 20px;
+    text-indent: 3ch;
+}
+
+.texto2 {
+    font-size: 40px;
+    margin-right: 55%;
+    margin-left: 20px;
+    text-indent: 3ch;
+}
+
+img {
+    height: 40%;
+    width: 40%;
+    margin-left: 50%;
+    margin-top: -170px;
+    margin-bottom: 30px;
+}
