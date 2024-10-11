@@ -1,0 +1,19 @@
+h1{
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 60px;
+    font-size: 80px;
+}
+.texto1{
+    font-size: 40px;
+    text-align: justify;
+    text-indent: 50px;
+   
+
+}
+img{
+    display: inline;
+    height: 30%;
+    width: 30%;
+    margin-left: 60px;
+}
